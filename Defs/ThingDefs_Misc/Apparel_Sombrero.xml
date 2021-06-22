@@ -17,11 +17,13 @@
       <li>Leathery</li>
     </stuffCategories>
     <statBases>
+      <MaxHitPoints>120</MaxHitPoints>
       <WorkToMake>7000</WorkToMake>
-      <Mass>0.14</Mass>
-      <ArmorRating_Blunt>0.03</ArmorRating_Blunt>
-      <ArmorRating_Sharp>0.03</ArmorRating_Sharp>
-      <Insulation_Heat>8</Insulation_Heat>
+      <Mass>0.3</Mass>
+      <StuffEffectMultiplierArmor>0.2</StuffEffectMultiplierArmor>
+      <StuffEffectMultiplierInsulation_Cold>0.10</StuffEffectMultiplierInsulation_Cold>
+      <StuffEffectMultiplierInsulation_Heat>0.50</StuffEffectMultiplierInsulation_Heat>
+      <EquipDelay>0.8</EquipDelay>
     </statBases>
     <equippedStatOffsets>
       <SocialImpact>0.15</SocialImpact>
@@ -36,6 +38,8 @@
       </layers>
       <tags>
         <li>Outlander</li>
+        <li>IndustrialBasic</li>
+        <li>Western</li>
       </tags>
       <defaultOutfitTags>
         <li>Worker</li>
@@ -81,11 +85,10 @@
       <MaxHitPoints>200</MaxHitPoints>
       <WorkToMake>26000</WorkToMake>
       <Mass>2.2</Mass>
-      <ArmorRating_Blunt>0.03</ArmorRating_Blunt>
-      <ArmorRating_Sharp>0.07</ArmorRating_Sharp>
-      <ArmorRating_Heat>0.07</ArmorRating_Heat>
-      <Insulation_Cold>15</Insulation_Cold>
-      <Insulation_Heat>15</Insulation_Heat>
+      <StuffEffectMultiplierArmor>0.3</StuffEffectMultiplierArmor>
+      <StuffEffectMultiplierInsulation_Cold>0.60</StuffEffectMultiplierInsulation_Cold>
+      <StuffEffectMultiplierInsulation_Heat>0.85</StuffEffectMultiplierInsulation_Heat>
+      <EquipDelay>3</EquipDelay>
     </statBases>
     <equippedStatOffsets>
       <MoveSpeed>-0.04</MoveSpeed>
@@ -103,6 +106,7 @@
       </layers>
       <tags>
         <li>Outlander</li>
+        <li>IndustrialAdvanced</li>
       </tags>
       <defaultOutfitTags>
         <li>Worker</li>

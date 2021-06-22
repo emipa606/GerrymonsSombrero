@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>GM's Sombrero (Continued)</name>
+  <name>Gerrymon's Sombrero (Continued)</name>
   <packageId>Mlie.GerrymonsSombrero</packageId>
   <author>Gerrymon</author>
   <url>https://github.com/emipa606/GerrymonsSombrero</url>
@@ -10,7 +10,9 @@
     <li>1.2</li>
   </supportedVersions>
   <modDependencies />
-  <loadAfter />
+  <loadAfter>
+    <li>CETeam.CombatExtended</li>
+  </loadAfter>
   <description>[img]https://i.imgur.com/WAEzk68.png[/img]
 Update of Gerrymons mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1336837013
@@ -57,4 +59,3 @@ https://ludeon.com/forums/index.php?topic=40821.0
 [/list]
 </description>
 </ModMetaData>
-

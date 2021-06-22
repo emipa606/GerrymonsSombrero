@@ -1,4 +1,7 @@
 # Changelog for GerrymonsSombrero
 
+1.0.1.0 - Added CE-support
+
+
 1.0.0.0 - First publish
 

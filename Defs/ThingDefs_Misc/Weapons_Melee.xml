@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="BaseMeleeWeapon_Blunt_Quality">
+    <defName>MeleeWeapon_Guitar</defName>
+    <label>guitar</label>
+    <description>A plucked string music instrument. Upon closer inspection, it is actually a Mexican vihuela, a guitar-like string instrument from 19th-century Mexico with five strings and typically played in mariachi groups. Seems like people already forget how to play this instrument though.</description>
+    <graphicData>
+      <texPath>Things/Melee/Joke/Guitar</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <techLevel>Medieval</techLevel>
+    <statBases>
+      <WorkToMake>10000</WorkToMake>
+      <Mass>1.25</Mass>
+    </statBases>
+    <equippedAngleOffset>-65</equippedAngleOffset>
+    <costList>
+      <WoodLog>75</WoodLog>
+    </costList>
+    <weaponTags>
+      <li>NonNeolithicOnlyMelee</li>
+    </weaponTags>
+    <tools>
+      <li>
+        <label>handle</label>
+        <capacities>
+          <li>Poke</li>
+        </capacities>
+        <power>8</power>
+        <cooldownTime>2.0</cooldownTime>
+      </li>
+      <li>
+        <label>head</label>
+        <labelUsedInLogging>false</labelUsedInLogging>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>14.3</power>
+        <cooldownTime>2.0</cooldownTime>
+      </li>
+    </tools>
+    <recipeMaker>
+      <researchPrerequisite>ComplexClothing</researchPrerequisite>
+    </recipeMaker>
+  </ThingDef>
+</Defs>

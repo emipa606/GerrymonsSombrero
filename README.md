@@ -5,6 +5,8 @@
 Update of Gerrymons mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1336837013
 
+- Added CE-support
+
 ![Image](https://i.imgur.com/7Gzt3Rg.png)
 
 

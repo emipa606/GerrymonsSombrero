@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-  <ThingDef ParentName="HatMakeableBase" Name="CowboyHat">
+  <ThingDef ParentName="HatMakeableBase" Name="Apparel_Sombrero">
     <defName>Apparel_Sombrero</defName>
     <label>sombrero</label>
     <description>Broad-brimmed, high-crowned hat made of felt or straw. Its name derived from the Spanish word sombra, meaning “shade,” first appeared in the 15th century.</description>

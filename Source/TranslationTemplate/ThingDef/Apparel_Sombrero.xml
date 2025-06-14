@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: poncho -->
+  <Apparel_Poncho.label>poncho</Apparel_Poncho.label>
+  <!-- EN: A well-known sleeveless garment with unsewn sides and a space for the head to pass through. Design to keep warmth and protect the body from harsh weather conditions while still having the freedom of movement to continue working comfortably. -->
+  <Apparel_Poncho.description>A well-known sleeveless garment with unsewn sides and a space for the head to pass through. Design to keep warmth and protect the body from harsh weather conditions while still having the freedom of movement to continue working comfortably.</Apparel_Poncho.description>
+  <!-- EN: sombrero -->
+  <Apparel_Sombrero.label>sombrero</Apparel_Sombrero.label>
+  <!-- EN: Broad-brimmed, high-crowned hat made of felt or straw. Its name derived from the Spanish word sombra, meaning “shade,” first appeared in the 15th century. -->
+  <Apparel_Sombrero.description>Broad-brimmed, high-crowned hat made of felt or straw. Its name derived from the Spanish word sombra, meaning “shade,” first appeared in the 15th century.</Apparel_Sombrero.description>
+</LanguageData>

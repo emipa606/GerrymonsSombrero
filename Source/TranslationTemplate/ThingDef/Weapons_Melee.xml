@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: guitar -->
+  <MeleeWeapon_Guitar.label>guitar</MeleeWeapon_Guitar.label>
+  <!-- EN: A plucked string music instrument. Upon closer inspection, it is actually a Mexican vihuela, a guitar-like string instrument from 19th-century Mexico with five strings and typically played in mariachi groups. Seems like people already forget how to play this instrument though. -->
+  <MeleeWeapon_Guitar.description>A plucked string music instrument. Upon closer inspection, it is actually a Mexican vihuela, a guitar-like string instrument from 19th-century Mexico with five strings and typically played in mariachi groups. Seems like people already forget how to play this instrument though.</MeleeWeapon_Guitar.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Guitar.tools.handle.label>handle</MeleeWeapon_Guitar.tools.handle.label>
+  <!-- EN: head -->
+  <MeleeWeapon_Guitar.tools.head.label>head</MeleeWeapon_Guitar.tools.head.label>
+</LanguageData>
